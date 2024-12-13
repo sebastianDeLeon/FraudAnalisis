@@ -8,3 +8,5 @@ El auditor Senior con el que trabajas te menciona actividades que son considerad
 
 Diagram ER
 ![pruebaTecnica drawio](https://github.com/user-attachments/assets/c550075a-0a30-496c-8373-85d1d0630507)
+
+Link al video: https://youtu.be/c4MrnKbiv2Q
